@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{0194674B-9267-4FC6-B5FD-86B14C6AA6D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LyfterOrders/Views/ItemsPage.xaml">
+    <Files>
+      <File FileName="LyfterOrders/App.xaml.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="LyfterOrders/Views/LoginPage.xaml" Line="1" Column="1" />
+      <File FileName="LyfterOrders/Services/MockDataStore.cs" />
+      <File FileName="LyfterOrders/Models/Item.cs" Line="7" Column="39" />
+      <File FileName="LyfterOrders/Views/AboutPage.xaml" Line="25" Column="82" />
+      <File FileName="LyfterOrders/AppShell.xaml" Line="87" Column="1" />
+      <File FileName="LyfterOrders/Views/ItemsPage.xaml" Line="25" Column="51" />
+      <File FileName="LyfterOrders/Views/ItemsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="LyfterOrders/ViewModels/ItemsViewModel.cs" Line="50" Column="32" />
+      <File FileName="LyfterOrders/AppShell.xaml.cs" Line="15" Column="10" />
+      <File FileName="LyfterOrders/Models/Order.cs" Line="6" Column="39" />
+      <File FileName="LyfterOrders/Views/ItemDetailPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LyfterOrders" expanded="True">
+            <Node name="LyfterOrders" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ItemsPage.xaml" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+            </Node>
+            <Node name="LyfterOrders.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LyfterOrders.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5B4EA962-78C7-49BD-AB34-56DA8054B333" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
