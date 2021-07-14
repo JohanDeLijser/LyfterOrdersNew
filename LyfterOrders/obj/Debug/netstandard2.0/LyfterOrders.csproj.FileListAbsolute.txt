@@ -27,7 +27,6 @@
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/obj/Debug/netstandard2.0/LyfterOrders.AssemblyInfoInputs.cache
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/obj/Debug/netstandard2.0/LyfterOrders.AssemblyInfo.cs
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/obj/Debug/netstandard2.0/LyfterOrders.csproj.CoreCompileInputs.cache
