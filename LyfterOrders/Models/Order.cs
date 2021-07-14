@@ -3,8 +3,7 @@ namespace LyfterOrders.Models
 {
     public class Order
     {
-        public Order()
-        {
-        }
+        public string Id { get; set; }
+        public string Date { get; set; }
     }
 }

@@ -13,7 +13,7 @@ namespace LyfterOrders
         {
             InitializeComponent();
 
-            DependencyService.Register<MockDataStore>();
+            DependencyService.Register<OrderDataStore>();
             MainPage = new AppShell();
         }
 
