@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sFibFlRvQju3Fnhr21D9eu7M3dAn40zAMScJ0BMkp4lt+T9NW0lcbPRJGh9BeVwsOQRUsxwVYLKAMSxK+/Ggzg==",
+  "success": true,
+  "projectFilePath": "/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/LyfterOrders.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/johandelijser/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/johandelijser/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/johandelijser/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
