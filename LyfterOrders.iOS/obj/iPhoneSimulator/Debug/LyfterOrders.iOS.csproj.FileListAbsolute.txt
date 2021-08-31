@@ -66,3 +66,8 @@
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/xamarin_logo@3x.png
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/lyfter-logo.png
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.dll
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.OAuth.dll
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/bin/iPhoneSimulator/Debug/Zlib.Portable.dll

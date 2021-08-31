@@ -1,34 +1,36 @@
 ﻿<Properties StartupConfiguration="{0194674B-9267-4FC6-B5FD-86B14C6AA6D5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LyfterOrders/ViewModels/AboutViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LyfterOrders/Services/OrderDataStore.cs">
     <Files>
       <File FileName="LyfterOrders/Views/OrderDetailPage.xaml" Line="13" Column="5" />
       <File FileName="LyfterOrders/Views/OrderDetailPage.xaml.cs" Line="11" Column="39" />
       <File FileName="LyfterOrders/Views/OrdersPage.xaml.cs" Line="17" Column="1" />
       <File FileName="LyfterOrders/ViewModels/OrderDetailViewModel.cs" Line="50" Column="14" />
-      <File FileName="LyfterOrders/ViewModels/ItemDetailViewModel.cs" Line="1" Column="1" />
       <File FileName="LyfterOrders/ViewModels/BaseViewModel.cs" Line="13" Column="18" />
       <File FileName="LyfterOrders/AppShell.xaml" Line="85" Column="89" />
       <File FileName="LyfterOrders/Views/OrdersPage.xaml" Line="36" Column="32" />
       <File FileName="LyfterOrders/Views/AboutPage.xaml.cs" Line="1" Column="1" />
       <File FileName="LyfterOrders/Views/AboutPage.xaml" Line="45" Column="43" />
-      <File FileName="LyfterOrders/ViewModels/AboutViewModel.cs" Line="13" Column="96" />
+      <File FileName="LyfterOrders/ViewModels/AboutViewModel.cs" Line="16" Column="48" />
+      <File FileName="LyfterOrders/Services/OrderDataStore.cs" Line="29" Column="50" />
+      <File FileName="LyfterOrders/Models/Order.cs" Line="1" Column="1" />
+      <File FileName="LyfterOrders/Services/IOrderDataStore.cs" Line="1" Column="1" />
+      <File FileName="LyfterOrders/ViewModels/OrdersViewModel.cs" Line="1" Column="1" />
+      <File FileName="LyfterOrders/App.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LyfterOrders" expanded="True">
             <Node name="LyfterOrders" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
               <Node name="Models" expanded="True" />
-              <Node name="ViewModels" expanded="True">
-                <Node name="AboutViewModel.cs" selected="True" />
+              <Node name="Services" expanded="True">
+                <Node name="OrderDataStore.cs" selected="True" />
               </Node>
-              <Node name="Views" expanded="True">
-                <Node name="AboutPage.xaml" expanded="True" />
-                <Node name="OrderDetailPage.xaml" expanded="True" />
-                <Node name="OrdersPage.xaml" expanded="True" />
-              </Node>
-              <Node name="App.xaml" expanded="True" />
-              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True" />
             </Node>
             <Node name="LyfterOrders.iOS" expanded="True" />
           </Node>
