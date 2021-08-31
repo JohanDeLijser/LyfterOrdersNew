@@ -12,7 +12,7 @@ namespace LyfterOrders.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
-        public IOrderDataStore<Item> DataStore => DependencyService.Get<IOrderDataStore<Item>>();
+        public IOrderDataStore<Order> DataStore => DependencyService.Get<IOrderDataStore<Order>>();
 
         bool isBusy = false;
         public bool IsBusy

@@ -6,10 +6,10 @@ using Xamarin.Forms;
 
 namespace LyfterOrders.ViewModels
 {
-    [QueryProperty(nameof(ItemId), nameof(ItemId))]
-    public class ItemDetailViewModel : BaseViewModel
+    [QueryProperty(nameof(OrderId), nameof(OrderId))]
+    public class OrderDetailViewModel : BaseViewModel
     {
-        private string itemId;
+        private string orderId;
         private string text;
         private string description;
         public string Id { get; set; }
@@ -26,31 +26,31 @@ namespace LyfterOrders.ViewModels
             set => SetProperty(ref description, value);
         }
 
-        public string ItemId
+        public string OrderId
         {
             get
             {
-                return itemId;
+                return orderId;
             }
             set
             {
-                itemId = value;
-                LoadItemId(value);
+                OrderId = value;
+                LoadOrderId(value);
             }
         }
 
-        public async void LoadItemId(string itemId)
+        public async void LoadOrderId(string orderId)
         {
             try
             {
-                var item = await DataStore.GetOrderAsync(itemId);
-                Id = item.Id;
-                Text = item.Text;
-                Description = item.Description;
+                var Order = await DataStore.GetOrderAsync(orderId);
+                Id = Order.Id;
+                Text = Order.Text;
+                Description = Order.Description;
             }
             catch (Exception)
             {
-                Debug.WriteLine("Failed to Load Item");
+                Debug.WriteLine("Failed to Load Order");
             }
         }
     }

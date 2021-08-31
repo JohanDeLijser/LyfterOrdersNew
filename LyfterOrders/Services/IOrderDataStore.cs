@@ -6,7 +6,7 @@ namespace LyfterOrders.Services
 {
     public interface IOrderDataStore<T>
     {
-        Task<T> GetItemAsync(string id);
-        Task<IEnumerable<T>> GetItemsAsync(bool forceRefresh = false);
+        Task<T> GetOrderAsync(string id);
+        Task<IEnumerable<T>> GetOrdersAsync(bool forceRefresh = false);
     }
 }
