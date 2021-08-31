@@ -1,14 +1,17 @@
 ﻿<Properties StartupConfiguration="{0194674B-9267-4FC6-B5FD-86B14C6AA6D5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LyfterOrders/Views/OrdersPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LyfterOrders/ViewModels/AboutViewModel.cs">
     <Files>
-      <File FileName="LyfterOrders/Views/OrderDetailPage.xaml" Line="11" Column="63" />
-      <File FileName="LyfterOrders/Views/OrderDetailPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="LyfterOrders/Views/OrdersPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="LyfterOrders/ViewModels/OrderDetailViewModel.cs" Line="46" Column="68" />
+      <File FileName="LyfterOrders/Views/OrderDetailPage.xaml" Line="13" Column="5" />
+      <File FileName="LyfterOrders/Views/OrderDetailPage.xaml.cs" Line="11" Column="39" />
+      <File FileName="LyfterOrders/Views/OrdersPage.xaml.cs" Line="17" Column="1" />
+      <File FileName="LyfterOrders/ViewModels/OrderDetailViewModel.cs" Line="50" Column="14" />
       <File FileName="LyfterOrders/ViewModels/ItemDetailViewModel.cs" Line="1" Column="1" />
-      <File FileName="LyfterOrders/ViewModels/BaseViewModel.cs" Line="22" Column="10" />
+      <File FileName="LyfterOrders/ViewModels/BaseViewModel.cs" Line="13" Column="18" />
       <File FileName="LyfterOrders/AppShell.xaml" Line="85" Column="89" />
-      <File FileName="LyfterOrders/Views/OrdersPage.xaml" Line="26" Column="57" />
+      <File FileName="LyfterOrders/Views/OrdersPage.xaml" Line="36" Column="32" />
+      <File FileName="LyfterOrders/Views/AboutPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="LyfterOrders/Views/AboutPage.xaml" Line="45" Column="43" />
+      <File FileName="LyfterOrders/ViewModels/AboutViewModel.cs" Line="13" Column="96" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,10 +19,13 @@
           <Node name="LyfterOrders" expanded="True">
             <Node name="LyfterOrders" expanded="True">
               <Node name="Models" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="AboutViewModel.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
+                <Node name="AboutPage.xaml" expanded="True" />
                 <Node name="OrderDetailPage.xaml" expanded="True" />
-                <Node name="OrdersPage.xaml" expanded="True" selected="True" />
+                <Node name="OrdersPage.xaml" expanded="True" />
               </Node>
               <Node name="App.xaml" expanded="True" />
               <Node name="AppShell.xaml" expanded="True" />

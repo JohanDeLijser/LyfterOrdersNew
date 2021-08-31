@@ -1,5 +1,4 @@
-﻿using System.ComponentModel;
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
 using LyfterOrders.ViewModels;
 
 namespace LyfterOrders.Views

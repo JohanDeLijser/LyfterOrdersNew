@@ -34,7 +34,7 @@ namespace LyfterOrders.ViewModels
             }
             set
             {
-                OrderId = value;
+                orderId = value;
                 LoadOrderId(value);
             }
         }
@@ -43,10 +43,10 @@ namespace LyfterOrders.ViewModels
         {
             try
             {
-                var Order = await DataStore.GetOrderAsync(orderId);
-                Id = Order.Id;
-                Text = Order.Text;
-                Description = Order.Description;
+                var order = await DataStore.GetOrderAsync(orderId);
+                Id = order.Id;
+                Text = order.Text;
+                Description = order.Description;
             }
             catch (Exception)
             {
