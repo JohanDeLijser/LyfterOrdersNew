@@ -1,71 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "KMp9mXH2azSFdUVUfceW1bKUEn4f27BsKwJQiUeOTj1iNZnuMcePr5cynkTO1sYQuou7DXVYkdAJaKvd8/4WRQ==",
+  "dgSpecHash": "yPOue7UZ9Ef258IJ22lCXhJxn0EV1+XfrlnL61v+v0q1PUC9Li61pFWJsSR3GEdwzzYDcVCICZIL2MTMgdtULw==",
   "success": true,
   "projectFilePath": "/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/LyfterOrders.csproj",
   "expectedPackageFiles": [
-    "/Users/johandelijser/.nuget/packages/microsoft.bcl/1.1.10/microsoft.bcl.1.1.10.nupkg.sha512",
-    "/Users/johandelijser/.nuget/packages/microsoft.bcl.build/1.0.14/microsoft.bcl.build.1.0.14.nupkg.sha512",
-    "/Users/johandelijser/.nuget/packages/microsoft.net.http/2.2.29/microsoft.net.http.2.2.29.nupkg.sha512",
     "/Users/johandelijser/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/johandelijser/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/Users/johandelijser/.nuget/packages/newtonsoft.json/8.0.3/newtonsoft.json.8.0.3.nupkg.sha512",
     "/Users/johandelijser/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/johandelijser/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
-    "/Users/johandelijser/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
-    "/Users/johandelijser/.nuget/packages/xamarin.forms.oauth/1.2.1/xamarin.forms.oauth.1.2.1.nupkg.sha512",
-    "/Users/johandelijser/.nuget/packages/zlib.portable/1.11.0/zlib.portable.1.11.0.nupkg.sha512"
+    "/Users/johandelijser/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Bcl 1.1.10' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Microsoft.Bcl",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Net.Http 2.2.29' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Microsoft.Net.Http",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Newtonsoft.Json 8.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Newtonsoft.Json",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Xamarin.Forms.OAuth 1.2.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Xamarin.Forms.OAuth",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Zlib.Portable 1.11.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Zlib.Portable",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  "logs": []
 }
