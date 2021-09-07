@@ -27,9 +27,7 @@ namespace LyfterOrders.Services
 
         public async Task<List<Order>> GetOrdersAsync(bool forceRefresh = false)
         {
-            Console.WriteLine(await wc.Product.GetAll());
-            var orders = await wc.Order.GetAll();
-            return orders;
+            return await wc.Order.GetAll();
         }
     }
 }

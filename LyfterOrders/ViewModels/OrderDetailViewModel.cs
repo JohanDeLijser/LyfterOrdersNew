@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Threading.Tasks;
-using LyfterOrders.Models;
 using Xamarin.Forms;
 
 namespace LyfterOrders.ViewModels
@@ -45,7 +44,7 @@ namespace LyfterOrders.ViewModels
             {
                 var order = await DataStore.GetOrderAsync(orderId);
                 Id = order.id.ToString();
-                Text = order.date_completed.ToString();
+                Text = order.date_created.ToString();
                 Description = order.total.ToString();
             }
             catch (Exception)

@@ -17,14 +17,44 @@
             <CollectionView.ItemTemplate>
                 <DataTemplate>
                     <StackLayout Padding="10" x:DataType="model:Order">
-                        <Label Text="{Binding date_created}" 
-                            LineBreakMode="NoWrap" 
-                            Style="{DynamicResource ListItemTextStyle}" 
-                            FontSize="16" />
-                        <Label Text="{Binding status}" 
-                            LineBreakMode="NoWrap"
-                            Style="{DynamicResource ListItemDetailTextStyle}"
-                            FontSize="13" />
+                        <FlexLayout>
+                            <Label Text="Bestelling:" 
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="16"
+                                Padding="0, 0, 5, 0"/>
+                            <Label Text="{ Binding id }" 
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="16"
+                                Padding="0, 0, 10, 0"/>
+                             <Label Text="{Binding date_created}" 
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="16"
+                                Padding="0, 0, 10, 0"/>
+                        </FlexLayout>
+                        <FlexLayout>
+                             <Label Text="Totaal:"
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13"
+                                Padding="0, 0, 5, 0"/>
+                            <Label Text="{Binding total}"
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13"
+                                Padding="0, 0, 10, 0"/>
+                            <Label Text="Status:"
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13"
+                                Padding="0, 0, 5, 0"/>
+                            <Label Text="{Binding status}" 
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13" />
+                        </FlexLayout>
                         <StackLayout.GestureRecognizers>
                             <TapGestureRecognizer 
                                 NumberOfTapsRequired="1"
