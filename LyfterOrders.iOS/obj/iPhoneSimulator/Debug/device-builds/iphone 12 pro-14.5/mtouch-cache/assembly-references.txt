@@ -24,5 +24,6 @@
 /Users/johandelijser/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/bin/Debug/netstandard2.0/LyfterOrders.dll
 /Users/johandelijser/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
+/Users/johandelijser/.nuget/packages/woocommercenet/0.8.3/lib/netstandard2.0/WooCommerce.NET.dll
 /Users/johandelijser/.nuget/packages/xamarin.essentials/1.6.1/lib/xamarinios10/Xamarin.Essentials.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.20.0.24/lib/mono/Xamarin.iOS/OpenTK-1.0.dll

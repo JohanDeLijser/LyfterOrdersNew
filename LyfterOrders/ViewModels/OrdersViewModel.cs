@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 
-using LyfterOrders.Models;
+using WooCommerceNET.WooCommerce.v3;
 using LyfterOrders.Views;
 
 namespace LyfterOrders.ViewModels
@@ -75,7 +75,7 @@ namespace LyfterOrders.ViewModels
                 return;
 
             // This will push the OrderDetailPage onto the navigation stack
-            await Shell.Current.GoToAsync($"{nameof(OrderDetailPage)}?{nameof(OrderDetailViewModel.OrderId)}={order.Id}");
+            await Shell.Current.GoToAsync($"{nameof(OrderDetailPage)}?{nameof(OrderDetailViewModel.OrderId)}={order.id}");
         }
     }
 }

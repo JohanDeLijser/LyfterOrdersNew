@@ -44,9 +44,9 @@ namespace LyfterOrders.ViewModels
             try
             {
                 var order = await DataStore.GetOrderAsync(orderId);
-                Id = order.Id;
-                Text = order.Text;
-                Description = order.Description;
+                Id = order.id.ToString();
+                Text = order.date_completed.ToString();
+                Description = order.total.ToString();
             }
             catch (Exception)
             {

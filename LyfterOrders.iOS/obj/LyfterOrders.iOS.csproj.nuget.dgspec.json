@@ -99,6 +99,10 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "WooCommerceNET": {
+              "target": "Package",
+              "version": "[0.8.3, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.6.1, )"
@@ -106,10 +110,6 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[5.0.0.2012, )"
-            },
-            "Xamarin.Forms.OAuth": {
-              "target": "Package",
-              "version": "[1.2.1, )"
             }
           },
           "imports": [

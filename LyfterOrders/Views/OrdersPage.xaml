@@ -2,9 +2,9 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LyfterOrders.Views.OrdersPage"
-             Title="{Binding Title}"
+             Title="Orders"
              xmlns:local="clr-namespace:LyfterOrders.ViewModels"  
-             xmlns:model="clr-namespace:LyfterOrders.Models"  
+             xmlns:model="clr-namespace:WooCommerceNET.WooCommerce.v3;assembly=WooCommerce.NET"  
              x:Name="BrowseOrdersPage">
     <!--
       x:DataType enables compiled bindings for better performance and compile time validation of binding expressions.
@@ -17,11 +17,11 @@
             <CollectionView.ItemTemplate>
                 <DataTemplate>
                     <StackLayout Padding="10" x:DataType="model:Order">
-                        <Label Text="{Binding Text}" 
+                        <Label Text="{Binding date_created}" 
                             LineBreakMode="NoWrap" 
                             Style="{DynamicResource ListItemTextStyle}" 
                             FontSize="16" />
-                        <Label Text="{Binding Description}" 
+                        <Label Text="{Binding status}" 
                             LineBreakMode="NoWrap"
                             Style="{DynamicResource ListItemDetailTextStyle}"
                             FontSize="13" />

@@ -13,7 +13,7 @@ namespace LyfterOrders
         {
             InitializeComponent();
 
-            DependencyService.Register<OrderDataStore>();
+            DependencyService.Register<WooOrderDataStore>();
             MainPage = new AppShell();
         }
 

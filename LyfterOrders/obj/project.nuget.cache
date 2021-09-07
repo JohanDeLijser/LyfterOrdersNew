@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yPOue7UZ9Ef258IJ22lCXhJxn0EV1+XfrlnL61v+v0q1PUC9Li61pFWJsSR3GEdwzzYDcVCICZIL2MTMgdtULw==",
+  "dgSpecHash": "fdk2sDDiuyop6xb9xuJc2zYz0uLYX//jCJVVvOPzVi6XYCKXG8tp6msiMDaKOMZclpHYzpKJfHcHj2RTt/NrWw==",
   "success": true,
   "projectFilePath": "/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/LyfterOrders.csproj",
   "expectedPackageFiles": [
     "/Users/johandelijser/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/johandelijser/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/Users/johandelijser/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/johandelijser/.nuget/packages/woocommercenet/0.8.3/woocommercenet.0.8.3.nupkg.sha512",
     "/Users/johandelijser/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
     "/Users/johandelijser/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],

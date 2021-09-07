@@ -5,14 +5,14 @@ using System.Runtime.CompilerServices;
 
 using Xamarin.Forms;
 
-using LyfterOrders.Models;
+using WooCommerceNET.WooCommerce.v3;
 using LyfterOrders.Services;
 
 namespace LyfterOrders.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
-        public IOrderDataStore<Order> DataStore => DependencyService.Get<IOrderDataStore<Order>>();
+        public IWooOrderDataStore<Order> DataStore => DependencyService.Get<IWooOrderDataStore<Order>>();
 
         bool isBusy = false;
         public bool IsBusy

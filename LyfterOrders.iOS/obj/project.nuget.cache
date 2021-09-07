@@ -1,18 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Bl3DaWCruyWEjtpGgFQUtM+J/Vx52fUPN/ZYpih/HI0Pc+GmNI5RbELVaxMxYfUgQoMmQ3kes1eDHHehfssByg==",
+  "dgSpecHash": "MbNB0zR1sR/lIEl3gt4jrGodBtI7NMy00W2PvWamAdsJ46tR28c/PjZYmOo7Cfj3Pu+jbTHKL4pUK/RGFBQ53A==",
   "success": true,
   "projectFilePath": "/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/LyfterOrders.iOS.csproj",
   "expectedPackageFiles": [
-    "/Users/johandelijser/.nuget/packages/microsoft.bcl/1.1.10/microsoft.bcl.1.1.10.nupkg.sha512",
-    "/Users/johandelijser/.nuget/packages/microsoft.bcl.build/1.0.14/microsoft.bcl.build.1.0.14.nupkg.sha512",
-    "/Users/johandelijser/.nuget/packages/microsoft.net.http/2.2.29/microsoft.net.http.2.2.29.nupkg.sha512",
-    "/Users/johandelijser/.nuget/packages/newtonsoft.json/8.0.3/newtonsoft.json.8.0.3.nupkg.sha512",
     "/Users/johandelijser/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/johandelijser/.nuget/packages/woocommercenet/0.8.3/woocommercenet.0.8.3.nupkg.sha512",
     "/Users/johandelijser/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
-    "/Users/johandelijser/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
-    "/Users/johandelijser/.nuget/packages/xamarin.forms.oauth/1.2.1/xamarin.forms.oauth.1.2.1.nupkg.sha512",
-    "/Users/johandelijser/.nuget/packages/zlib.portable/1.11.0/zlib.portable.1.11.0.nupkg.sha512"
+    "/Users/johandelijser/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []
 }
