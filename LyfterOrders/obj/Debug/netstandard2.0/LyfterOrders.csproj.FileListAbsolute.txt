@@ -35,3 +35,4 @@
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/obj/Debug/netstandard2.0/LyfterOrders.GeneratedMSBuildEditorConfig.editorconfig
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/obj/Debug/netstandard2.0/Views/OrdersPage.xaml.g.cs
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/obj/Debug/netstandard2.0/Views/OrderDetailPage.xaml.g.cs
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders/obj/Debug/netstandard2.0/Views/SettingsPage.xaml.g.cs

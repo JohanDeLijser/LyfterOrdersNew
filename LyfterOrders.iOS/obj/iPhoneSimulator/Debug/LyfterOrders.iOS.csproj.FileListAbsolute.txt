@@ -67,3 +67,6 @@
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/lyfter-logo.png
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/bin/iPhoneSimulator/Debug/WooCommerce.NET.dll
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/info.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/settings.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/list.png
