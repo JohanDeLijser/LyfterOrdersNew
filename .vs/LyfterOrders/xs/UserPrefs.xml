@@ -1,39 +1,43 @@
 ﻿<Properties StartupConfiguration="{0194674B-9267-4FC6-B5FD-86B14C6AA6D5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LyfterOrders/ViewModels/SettingsViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LyfterOrders/Views/SettingsPage.xaml">
     <Files>
-      <File FileName="LyfterOrders/Views/SettingsPage.xaml" Line="34" Column="45" />
-      <File FileName="LyfterOrders/Views/SettingsPage.xaml.cs" />
+      <File FileName="LyfterOrders/Views/SettingsPage.xaml" Line="32" Column="57" />
+      <File FileName="LyfterOrders/Views/SettingsPage.xaml.cs" Line="15" Column="10" />
       <File FileName="LyfterOrders/App.xaml" />
       <File FileName="LyfterOrders/AppShell.xaml" />
-      <File FileName="LyfterOrders/Views/AboutPage.xaml" />
+      <File FileName="LyfterOrders/Views/AboutPage.xaml" Line="45" Column="59" />
       <File FileName="LyfterOrders/Services/WooOrderDataStore.cs" />
-      <File FileName="LyfterOrders/ViewModels/SettingsViewModel.cs" Line="15" Column="1" />
-      <File FileName="LyfterOrders/ViewModels/AboutViewModel.cs" />
+      <File FileName="LyfterOrders/ViewModels/SettingsViewModel.cs" Line="16" Column="46" />
+      <File FileName="LyfterOrders/ViewModels/AboutViewModel.cs" Line="16" Column="48" />
+      <File FileName="LyfterOrders/Services/SettingsService.cs" Line="44" Column="52" />
+      <File FileName="LyfterOrders/Models/Setting.cs" Line="3" Column="11" />
+      <File FileName="LyfterOrders/AssemblyInfo.cs" />
+      <File FileName="LyfterOrders/ViewModels/OrdersViewModel.cs" Line="1" Column="1" />
+      <File FileName="LyfterOrders/Views/AboutPage.xaml.cs" Line="12" Column="35" />
+      <File FileName="LyfterOrders/Views/OrdersPage.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LyfterOrders" expanded="True">
             <Node name="LyfterOrders" expanded="True">
-              <Node name="Dependencies" expanded="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
               <Node name="Services" expanded="True" />
-              <Node name="ViewModels" expanded="True">
-                <Node name="SettingsViewModel.cs" selected="True" />
-              </Node>
+              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="SettingsPage.xaml" expanded="True" />
+                <Node name="AboutPage.xaml" expanded="True" />
+                <Node name="SettingsPage.xaml" expanded="True" selected="True" />
               </Node>
-              <Node name="App.xaml" expanded="True" />
-            </Node>
-            <Node name="LyfterOrders.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.LyfterOrders.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5B4EA962-78C7-49BD-AB34-56DA8054B333" />
+  <MonoDevelop.Ide.ItemProperties.LyfterOrders.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AABCBFA9-5945-4E47-BD3A-0C726C8BD18C" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -23,11 +23,11 @@
         <ScrollView Grid.Row="1">
             <StackLayout Orientation="Vertical" Padding="30,24,30,24" Spacing="10">
                 <Label Text="Webshop URL" />
-                <Entry x:Name="webshop_url" Placeholder="https://weshop.com" />
+                <Entry x:Name="webshop_url" Placeholder="https://weshop.com" Text="{Binding WebshopUrl}" />
                 <Label Text="Client key" />
-                <Entry x:Name="client_key" Placeholder="Client key" />
+                <Entry x:Name="client_key" Placeholder="Client key" Text="{Binding ClientKey}" />
                 <Label Text="Client secret" />
-                <Entry x:Name="client_secret" Placeholder="Client secret" />
+                <Entry x:Name="client_secret" Placeholder="Client secret" Text="{Binding ClientSecret}"/>
                 <Button Margin="0,10,0,0" Text="Save"
                         Command="{Binding SaveSettings}"
                         BackgroundColor="{StaticResource Primary}"
