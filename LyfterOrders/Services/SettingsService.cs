@@ -48,7 +48,12 @@ namespace LyfterOrders.Services
         {
             await Init();
 
-            return await db.Table<Setting>().Where(s => s.Key == key).FirstAsync();
+            try {
+                return await db.Table<Setting>().Where(s => s.Key == key).FirstAsync();
+            } catch
+            {
+                return null;
+            }
         }
     }
 }

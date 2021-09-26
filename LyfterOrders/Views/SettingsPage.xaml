@@ -3,11 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LyfterOrders.Views.SettingsPage"
              xmlns:vm="clr-namespace:LyfterOrders.ViewModels"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
              Title="{Binding Title}">
     
     <ContentPage.BindingContext>
         <vm:SettingsViewModel />
     </ContentPage.BindingContext>
+    <ContentPage.Behaviors>
+        <xct:EventToCommandBehavior EventName="Appearing" Command="{Binding LoadCommand}" />
+    </ContentPage.Behaviors>
     
     <ContentPage.Resources>
         <ResourceDictionary>
@@ -23,17 +27,12 @@
         <ScrollView Grid.Row="1">
             <StackLayout Orientation="Vertical" Padding="30,24,30,24" Spacing="10">
                 <Label Text="Webshop URL" />
-                <Entry x:Name="webshop_url" Placeholder="https://weshop.com" Text="{Binding WebshopUrl}" />
-                <Label Text="Client key" />
-                <Entry x:Name="client_key" Placeholder="Client key" Text="{Binding ClientKey}" />
-                <Label Text="Client secret" />
-                <Entry x:Name="client_secret" Placeholder="Client secret" Text="{Binding ClientSecret}"/>
+                <Entry Placeholder="https://weshop.com" Text="{Binding WebshopUrl}" />
                 <Button Margin="0,10,0,0" Text="Save"
-                        Command="{Binding SaveSettings}"
+                        Command="{Binding SaveCommand}"
                         BackgroundColor="{StaticResource Primary}"
                         TextColor="White" />
             </StackLayout>
         </ScrollView>
     </Grid>
-
 </ContentPage>
