@@ -45,6 +45,7 @@ namespace LyfterOrders.ViewModels
             catch (Exception ex)
             {
                 Debug.WriteLine(ex);
+                await Application.Current.MainPage.DisplayAlert("Something went wrong", "We weren't able to fetch any orders, check your settings and try again", "Ok");
             }
             finally
             {

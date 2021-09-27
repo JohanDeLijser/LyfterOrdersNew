@@ -50,6 +50,7 @@ namespace LyfterOrders.ViewModels
             catch (Exception)
             {
                 Debug.WriteLine("Failed to Load Order");
+                await Application.Current.MainPage.DisplayAlert("Something went wrong", "We weren't able to fetch any orders, check your settings and try again", "Ok");
             }
         }
     }

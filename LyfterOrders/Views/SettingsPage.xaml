@@ -28,6 +28,12 @@
             <StackLayout Orientation="Vertical" Padding="30,24,30,24" Spacing="10">
                 <Label Text="Webshop URL" />
                 <Entry Placeholder="https://weshop.com" Text="{Binding WebshopUrl}" />
+                <Label Text="Client key" />
+                <Entry Placeholder="Client key" Text="{Binding ClientKey}" />
+                <Label Text="Client secret" />
+                <Entry Placeholder="Client key" Text="{Binding ClientSecret}" />
+                <Label Text="Amount of orders to get" />
+                <Entry Placeholder="Max 99" MaxLength="2" Keyboard="Numeric" Text="{Binding AmountOrders}" />
                 <Button Margin="0,10,0,0" Text="Save"
                         Command="{Binding SaveCommand}"
                         BackgroundColor="{StaticResource Primary}"

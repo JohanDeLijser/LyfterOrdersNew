@@ -1,33 +1,33 @@
 ﻿<Properties StartupConfiguration="{0194674B-9267-4FC6-B5FD-86B14C6AA6D5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LyfterOrders.iOS/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LyfterOrders/ViewModels/OrderDetailViewModel.cs">
     <Files>
-      <File FileName="LyfterOrders/Services/SettingsService.cs" Line="53" Column="28" />
-      <File FileName="LyfterOrders/ViewModels/SettingsViewModel.cs" Line="36" Column="74" />
-      <File FileName="LyfterOrders/Views/SettingsPage.xaml" Line="28" Column="56" />
+      <File FileName="LyfterOrders/Services/SettingsService.cs" Line="45" Column="1" />
+      <File FileName="LyfterOrders/ViewModels/SettingsViewModel.cs" Line="81" Column="106" />
+      <File FileName="LyfterOrders/Views/SettingsPage.xaml" Line="34" Column="81" />
       <File FileName="LyfterOrders/Views/AboutPage.xaml" Line="45" Column="59" />
       <File FileName="LyfterOrders/ViewModels/AboutViewModel.cs" Line="13" Column="100" />
-      <File FileName="LyfterOrders/Views/SettingsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="LyfterOrders/Views/SettingsPage.xaml.cs" Line="9" Column="35" />
       <File FileName="LyfterOrders.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="LyfterOrders/Services/WooOrderDataStore.cs" Line="32" Column="41" />
+      <File FileName="LyfterOrders/Models/Setting.cs" Line="8" Column="37" />
+      <File FileName="LyfterOrders/Views/OrdersPage.xaml" Line="1" Column="1" />
+      <File FileName="LyfterOrders/ViewModels/OrdersViewModel.cs" Line="48" Column="17" />
+      <File FileName="LyfterOrders/ViewModels/OrderDetailViewModel.cs" Line="53" Column="163" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LyfterOrders" expanded="True">
             <Node name="LyfterOrders" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
+              <Node name="Dependencies" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Services" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="AboutPage.xaml" expanded="True" />
-                <Node name="SettingsPage.xaml" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="OrderDetailViewModel.cs" selected="True" />
               </Node>
+              <Node name="Views" expanded="True" />
             </Node>
-            <Node name="LyfterOrders.iOS" expanded="True">
-              <Node name="Main.cs" selected="True" />
-            </Node>
+            <Node name="LyfterOrders.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
