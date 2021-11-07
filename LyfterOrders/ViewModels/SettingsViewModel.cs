@@ -11,10 +11,11 @@ namespace LyfterOrders.ViewModels
 {
     public class SettingsViewModel : INotifyPropertyChanged
     {
-        string webshopUrl = "";
-        string clientKey = "";
-        string clientSecret = "";
-        string amountOrders = "";
+        public string webshopUrl = "";
+        public string clientKey = "";
+        public string clientSecret = "";
+        public string amountOrders = "";
+        public bool saved = false;
 
         public SettingsViewModel()
         {
@@ -85,6 +86,8 @@ namespace LyfterOrders.ViewModels
 
         public async Task Save()
         {
+            this.saved = false;
+
             await SettingsService.SaveSetting("webshop_url", WebshopUrl);
             await SettingsService.SaveSetting("client_key", ClientKey);
             await SettingsService.SaveSetting("client_secret", ClientSecret);
@@ -93,7 +96,12 @@ namespace LyfterOrders.ViewModels
             WooOrderDataStore.rest = null;
             WooOrderDataStore.wc = null;
 
-            Application.Current.MainPage.DisplayAlert("Saved", "Settings were saved successfully", "Ok");
+            this.saved = true;
+
+            if (Application.Current != null)
+            {
+                await Application.Current.MainPage.DisplayAlert("Saved", "Settings were saved successfully", "Ok");
+            }
         }
 
         protected virtual void NotifyPropertyChanged([CallerMemberName] string propertyName = "")

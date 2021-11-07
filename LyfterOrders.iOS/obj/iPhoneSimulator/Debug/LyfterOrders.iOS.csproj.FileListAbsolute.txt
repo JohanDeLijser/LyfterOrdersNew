@@ -61,23 +61,23 @@
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/LyfterOrders.iOS.csproj.CopyComplete
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/LyfterOrders.iOS.exe
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/LyfterOrders.iOS.pdb
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/actool/_PartialAppManifest.items
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/actool/_BundleResourceWithLogicalName.items
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/ibtool/_BundleResourceWithLogicalName.items
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/coremlc/_PartialAppManifest.items
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/coremlc/_BundleResourceWithLogicalName.items
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/icon_about.png
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/icon_about@2x.png
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/icon_about@3x.png
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/icon_feed.png
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/icon_feed@2x.png
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/icon_feed@3x.png
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/xamarin_logo.png
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/xamarin_logo@2x.png
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/xamarin_logo@3x.png
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/lyfter-logo.png
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/info.png
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/settings.png
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/list.png
-/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro-14.5/optimized/
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/bin/iPhoneSimulator/Debug/Xamarin.CommunityToolkit.dll
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/icon_about.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/icon_about@2x.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/icon_about@3x.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/icon_feed.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/icon_feed@2x.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/icon_feed@3x.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/xamarin_logo.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/xamarin_logo@2x.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/xamarin_logo@3x.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/lyfter-logo.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/info.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/settings.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/list.png
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/

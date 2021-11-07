@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyfterOrders.iOS", "LyfterO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyfterOrders", "LyfterOrders\LyfterOrders.csproj", "{272AB46B-573D-4D6B-8103-0CBFEF005533}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{ED6C800D-67AA-42A1-A11F-A76C6BDEBBDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyfterOrders.UnitTests", "LyfterOrders.UnitTests\LyfterOrders.UnitTests.csproj", "{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -41,11 +45,26 @@ Global
 		{272AB46B-573D-4D6B-8103-0CBFEF005533}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{272AB46B-573D-4D6B-8103-0CBFEF005533}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{272AB46B-573D-4D6B-8103-0CBFEF005533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}.Debug|iPhone.Build.0 = Debug|iPhone
+		{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}.Release|iPhone.ActiveCfg = Release|iPhone
+		{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}.Release|iPhone.Build.0 = Release|iPhone
+		{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21AE8E7E-27FB-4ABB-9D14-52835AEC9126}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9} = {ED6C800D-67AA-42A1-A11F-A76C6BDEBBDC}
 	EndGlobalSection
 EndGlobal
