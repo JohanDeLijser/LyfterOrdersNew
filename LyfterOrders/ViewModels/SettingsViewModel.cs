@@ -86,17 +86,20 @@ namespace LyfterOrders.ViewModels
 
         public async Task Save()
         {
-            this.saved = false;
+            saved = false;
 
-            await SettingsService.SaveSetting("webshop_url", WebshopUrl);
-            await SettingsService.SaveSetting("client_key", ClientKey);
-            await SettingsService.SaveSetting("client_secret", ClientSecret);
-            await SettingsService.SaveSetting("amount_orders", AmountOrders);
+            if (WebshopUrl != "" && ClientKey != "" && ClientSecret != "" && AmountOrders != "")
+            {
+                await SettingsService.SaveSetting("webshop_url", WebshopUrl);
+                await SettingsService.SaveSetting("client_key", ClientKey);
+                await SettingsService.SaveSetting("client_secret", ClientSecret);
+                await SettingsService.SaveSetting("amount_orders", AmountOrders);
+
+                saved = true;
+            }
 
             WooOrderDataStore.rest = null;
             WooOrderDataStore.wc = null;
-
-            this.saved = true;
 
             if (Application.Current != null)
             {

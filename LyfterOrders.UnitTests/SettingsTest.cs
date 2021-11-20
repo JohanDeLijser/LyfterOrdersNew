@@ -1,5 +1,6 @@
 ﻿
 using System;
+using System.Threading.Tasks;
 using NUnit.Framework;
 using LyfterOrders.ViewModels;
 using LyfterOrders.Services;
@@ -9,32 +10,53 @@ namespace LyfterOrders.UnitTests
     [TestFixture]
     public class SettingsTest
     {
-        [Test]
-        public void AddSaveTest()
+        private bool passed;
+
+        public async Task AddSaveTest(string url, string key, string secret, string amount)
         {
             new WooOrderDataStore();
 
             // Arrange
             var vm = new SettingsViewModel
             {
-                webshopUrl = "https://ordersshop.lyfter.nl",
-                clientKey = "ck_4ea895dae01f206ca9c078ddcfe225b03b6e7d2b",
-                clientSecret = "cs_fab029028035c86a7e42d95dc44fec6ddbca984f",
-                amountOrders = "10"
+                webshopUrl = url,
+                clientKey = key,
+                clientSecret = secret,
+                amountOrders = amount
             };
 
             // Act
-            vm.SaveCommand.Execute(null);
+            await vm.Save();
 
-            // Assert
-            Assert.IsTrue(vm.saved != false);
+            passed = vm.saved;
         }
 
         [Test]
-        [Ignore("another time")]
-        public void Ignore()
+        public async void SaveTestPass()
         {
-            Assert.True(false);
+            await AddSaveTest(
+                "https://ordersshop.lyfter.nl",
+                "ck_4ea895dae01f206ca9c078ddcfe225b03b6e7d2b",
+                "cs_fab029028035c86a7e42d95dc44fec6ddbca984f",
+                "10"
+            );
+
+            // Assert
+            Assert.IsTrue(passed);
+        }
+
+        [Test]
+        public async void SaveTestFail()
+        {
+            await AddSaveTest(
+               "https://ordersshop.lyfter.nl",
+               "ck_4ea895dae01f206ca9c078ddcfe225b03b6e7d2b",
+               "cs_fab029028035c86a7e42d95dc44fec6ddbca984f",
+               ""
+           );
+
+            // Assert
+            Assert.IsTrue(passed);
         }
     }
 }

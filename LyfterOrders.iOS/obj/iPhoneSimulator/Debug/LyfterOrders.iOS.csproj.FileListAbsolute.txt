@@ -81,3 +81,8 @@
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/settings.png
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/list.png
 /Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/_ProcessedBundleResourcesPath.items
+/Users/johandelijser/Documents/School.nosync/herkansingen/elu2.4/Projects/LyfterOrders/LyfterOrders.iOS/obj/iPhoneSimulator/Debug/_ProcessedContentPath.items
