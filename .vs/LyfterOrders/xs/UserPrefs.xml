@@ -1,30 +1,32 @@
-﻿<Properties StartupConfiguration="{9764F044-4EC9-45A1-B21A-E2CA4E8B86F9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LyfterOrders.UnitTests/SettingsTest.cs">
+﻿<Properties StartupConfiguration="{0194674B-9267-4FC6-B5FD-86B14C6AA6D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LyfterOrders/AppShell.xaml">
     <Files>
-      <File FileName="LyfterOrders/ViewModels/SettingsViewModel.cs" Line="2" Column="1" />
-      <File FileName="LyfterOrders.UnitTests/SettingsTest.cs" Line="31" Column="37" />
+      <File FileName="LyfterOrders/ViewModels/SettingsViewModel.cs" Line="102" Column="41" />
+      <File FileName="LyfterOrders.UnitTests/SettingsTest.cs" Line="14" Column="1" />
       <File FileName="LyfterOrders/ViewModels/OrdersViewModel.cs" Line="1" Column="1" />
       <File FileName="LyfterOrders.UnitTests/UnitTestAppDelegate.cs" Line="1" Column="1" />
+      <File FileName="LyfterOrders/AppShell.xaml" Line="24" Column="77" />
+      <File FileName="LyfterOrders/App.xaml" Line="25" Column="43" />
+      <File FileName="LyfterOrders/Views/AboutPage.xaml" Line="1" Column="1" />
+      <File FileName="LyfterOrders/AppShell.xaml.cs" Line="1" Column="1" />
+      <File FileName="LyfterOrders/Views/OrderDetailPage.xaml" Line="1" Column="1" />
+      <File FileName="LyfterOrders/Views/OrdersPage.xaml" Line="1" Column="1" />
+      <File FileName="LyfterOrders/App.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LyfterOrders" expanded="True">
-            <Node name="Tests" expanded="True">
-              <Node name="LyfterOrders.UnitTests" expanded="True" />
-            </Node>
             <Node name="LyfterOrders" expanded="True">
-              <Node name="Services" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Tests.LyfterOrders.UnitTests PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.719FDFD4-A7A9-4573-BA9A-E50BCFBC0FA7">
-    <MonoDevelop.MacDev.AppleDevelopmentTeam />
-  </MonoDevelop.Ide.ItemProperties.Tests.LyfterOrders.UnitTests>
+  <MonoDevelop.Ide.ItemProperties.Tests.LyfterOrders.UnitTests PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6C96CB1B-3F45-494C-B027-AA049EAA56AB" />
   <MonoDevelop.Ide.ItemProperties.LyfterOrders.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.719FDFD4-A7A9-4573-BA9A-E50BCFBC0FA7" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
